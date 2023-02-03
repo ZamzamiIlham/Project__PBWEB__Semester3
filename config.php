@@ -1,4 +1,4 @@
 <?php
 
-$conn = mysqli_connect('localhost','tib212410102082','secret','db212410102082') or die('connection failed');
+$conn = mysqli_connect('localhost','root','','shop_db') or die('connection failed');
 ?>
